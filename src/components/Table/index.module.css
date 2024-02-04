@@ -1,0 +1,21 @@
+table{
+    margin: 50px auto;
+    border: 3px solid gray;
+    border-collapse: collapse;
+    color: rgb(75, 74, 74);
+}
+td, th{
+    text-align: center;
+    border: 3px solid gray;
+    padding: 5px;
+}
+svg{
+    width: 15px;
+    height: 15px;
+}
+svg path{
+    fill: gray;
+}
+svg:hover{
+    cursor: pointer;
+}

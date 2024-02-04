@@ -1,0 +1,35 @@
+.form{
+    margin: 50px auto;
+    width: 500px;
+    padding: 20px;
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+.name{
+    width: 100%;
+    padding: 10px;
+    border: 3px solid gray;
+    border-radius: 10px;
+    color: gray;
+    margin-bottom: 15px;
+}
+.label{
+    font-style: normal;
+    color: gray;
+    margin-bottom: 5px;
+}
+textarea{
+    resize: none;
+}
+.btn{
+    background-color: transparent;
+    border: 3px solid gray;
+    border-radius: 8px;
+    padding: 8px 12px;
+    display: block;
+    margin: 0px auto;
+    color: gray;
+}
+.btn:hover{
+    cursor: pointer;
+}
